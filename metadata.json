@@ -1,0 +1,6 @@
+{
+  "name": "Project IQ - Review Schedule Automation",
+  "description": "Automated project review scheduling, Gemini-powered module decomposition, and iterative progress evaluation system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
